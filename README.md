@@ -1,5 +1,8 @@
-# Taha Elkholy's Portfolio
-Welcome to my portfolio! This repository contains a collection of my projects and work samples, as well as information about my skills and experience as a Flutter developer.
+# Hi there!
+I'm a junior Flutter developer with over 1 year of experience working remotely. I have a passion for creating high-quality mobile apps that are both functional and user-friendly.
+
+In my projects, I prioritize clean and efficient code that is easy to maintain and scale.
+I'm always looking to learn new technologies and improve my skills, and I enjoy collaborating with other developers to build great products.
 
 # Projects
 * [الأربعين النوويه](https://play.google.com/store/apps/details?id=com.abdelaziz.taha.arba3nnawawia): An Android app that contains the forty hadiths of Imam Nawawi, a collection of sayings and teachings of the Prophet Muhammad (peace be upon him). The app includes the text of each hadith in Arabic. Users can browse the hadiths by number. This app demonstrates proficiency in Android app development.
