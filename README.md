@@ -1,11 +1,12 @@
-# Hi there!
-I'm a junior Flutter developer with over 1 year of experience working remotely. I have a passion for creating high-quality mobile apps that are both functional and user-friendly.
-
-In my projects, I prioritize clean and efficient code that is easy to maintain and scale.
-I'm always looking to learn new technologies and improve my skills, and I enjoy collaborating with other developers to build great products.
+# Hi there :wave:
+* I'm a junior Flutter developer with over a year of remote work experience.
+* I'm currently studying Software Engineering at ALX SE, with a passion for mobile app development.
+* Good communication and collaboration skills, making me an excellent team player.
+* Continuous learning and staying up-to-date with the latest developments in the field.
+* Hire me for your next app project and see their skills in action!:smiley:
 
 # Projects
-* [الأربعين النوويه](https://play.google.com/store/apps/details?id=com.abdelaziz.taha.arba3nnawawia): An Android app that contains the forty hadiths of Imam Nawawi, a collection of sayings and teachings of the Prophet Muhammad (peace be upon him). The app includes the text of each hadith in Arabic. Users can browse the hadiths by number. This app demonstrates proficiency in Android app development.
+* [الأربعين النوويه](https://play.google.com/store/apps/details?id=com.abdelaziz.taha.arba3nnawawia): An Android app that contains the forty hadiths of Imam Nawawi, a collection of sayings and teachings of the Prophet Muhammad (peace be upon him).
 
 # Work Samples
 * [E-Commerce](https://github.com/gmgm60/e-commerce): An e-commerce mobile app built using the Flutter framework for the frontend, and Laravel for the backend. The app is designed to allow users to browse and purchase products from a catalog, and includes features such as product search, filtering, and sorting.
