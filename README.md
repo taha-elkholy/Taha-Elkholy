@@ -6,8 +6,9 @@
 * Hire me for your next app project and see their skills in action!:smiley:
 
 # Projects
+* Kafel yateem: Ongoing mobile app completed by 80% of phase one features. This app is a charity app for supporting orphans with the main feature to allow users to view a list of children, add new children, and donate money to a selected child.
+  
 * [الأربعين النوويه](https://play.google.com/store/apps/details?id=com.abdelaziz.taha.arba3nnawawia): An Android app that contains the forty hadiths of Imam Nawawi, a collection of sayings and teachings of the Prophet Muhammad (peace be upon him).
-* Kafel yateem: Ongoing mobile app completed by 80% of phase one features. This app is a charity app for supporting orphans with 1 main feature to allow users to view a list of children, add new children, and donate money to a selected child.
 
 # Work Samples
 * [Complex UI](https://github.com/taha-elkholy/complex_ui): This Flutter project is designed to showcase complex UI design principles, with a focus on creating a visually appealing and user-friendly application.
