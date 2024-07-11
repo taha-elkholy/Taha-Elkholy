@@ -13,8 +13,6 @@
 # Work Samples
 * [Complex UI](https://github.com/taha-elkholy/complex_ui): This Flutter project is designed to showcase complex UI design principles, with a focus on creating a visually appealing and user-friendly application.
 
-* [Gallery](https://github.com/taha-elkholy/gallery): This Flutter project is designed to allow users to easily upload images using a mobile application.
-
 * [E-Commerce](https://github.com/gmgm60/e-commerce): An e-commerce mobile app built using the Flutter framework for the frontend, and Laravel for the backend. The app is designed to allow users to browse and purchase products from a catalog and includes features such as product search, filtering, and sorting.
 
 # Skills and Experience 
