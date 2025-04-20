@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | Open Source Contributor | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7ea7424-119f-4e92-b4aa-bcdd2fa71622" alt="Taha Elkholy" width="150"/>
+  <img src="https://github.com/user-attachments/assets/a893a7e3-6f5d-4d0e-8e0a-26660091fa69" alt="Taha Elkholy" width="150"/>
 </p>
 
 ---
